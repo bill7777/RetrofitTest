@@ -1,4 +1,4 @@
-package tw.com.test.retrofitdemo
+package tw.com.test.retrofitdemo.models
 
 import com.google.gson.annotations.SerializedName
 
